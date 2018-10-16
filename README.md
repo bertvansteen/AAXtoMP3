@@ -25,7 +25,7 @@ Essentially you want to manage yourself to get a link like:
 url = "https://www.audible.com/license/licenseForCustomerToken?customer_token=ABCDEFG...="
 ```
 
-The easiest way in my opinion is to ask iTunes to open the link for you. When first time example.aax is loaded into iTunes, iTunes is smarts enough to ask you about authorizing iTunes from Audible by leading you to browse some url like:
+The easiest way in my opinion is to ask iTunes to open the link for you. When first time example.aax is loaded into iTunes, iTunes is smart enough to ask you about authorizing iTunes from Audible by leading you to browse some url like:
 
 ```
 https://www.audible.com/player-auth-token?playerId=abcdefg....&playerManufacturer=itunes&playerModel=mac&playerType=software&serial=&
