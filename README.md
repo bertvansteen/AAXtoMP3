@@ -30,7 +30,7 @@ The easiest way in my opinion is to ask iTunes to open the link for you. When fi
 ```
 https://www.audible.com/player-auth-token?playerId=abcdefg....&playerManufacturer=itunes&playerModel=mac&playerType=software&serial=&
 ```
-In this page, a button <authorize iTunes> redirects you to 
+In this page, a button <Activate in iTunes> redirects you to 
     
 ```python3
 url_itms = "itms://www.audible.com/license/licenseForCustomerToken?customer_token=ABCDEFG...="
